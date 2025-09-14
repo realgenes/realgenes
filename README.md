@@ -15,9 +15,9 @@ I love solving problems, building scalable applications, and learning by doing.
 ---
 
 ## 🚀 My Projects  
-🌟 [**DevTinder**](https://github.com/yourusername/DevTinder) – A matchmaking platform for developers.  
-🌟 [**Netflix GPT**](https://github.com/yourusername/Netflix-GPT) – Movie recommendation platform using GPT.  
-🌟 [**Sign Language Interpreter**](https://github.com/yourusername/Sign-Interpreter) – Real-time CNN-based model for gesture recognition.  
+🌟 [**DevTinder**](https://github.com/realgenes/DevTinder) – A matchmaking platform for developers.  
+🌟 [**Netflix GPT**](https://github.com/realgenes/Netflix-GPT) – Movie recommendation platform using GPT.  
+🌟 [**Sign Language Interpreter**](https://github.com/realgenes/Sign-Interpreter) – Real-time CNN-based model for gesture recognition.  
 
 ---
 
@@ -30,8 +30,8 @@ I love solving problems, building scalable applications, and learning by doing.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=realgenes&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realgenes&layout=compact&theme=tokyonight)  
 
 ---
 
